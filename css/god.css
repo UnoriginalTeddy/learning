@@ -2,22 +2,25 @@ body{
 	margin: 0;
 }
 
+/* Header Styles*/
 header{
+	margin: 10px;
 	background-color: #1949ca;
 	text-align: left;
 	padding-left: 25px;
 	padding-top: 25px;
+
 }
 
 header h1{
-	margin: 0;
+	margin: 0px 0px 20px 0px;
 	text-align: center;
 	font-size: 40px;
 	font-family: Helvetica, Arial;
 }
 
 header h2{
-	margin: 0;
+	margin: 0px 0px 20px 0px;
 	text-align: center;
 	font-size: 30;
 	font-family: Helvetica,  Arial
